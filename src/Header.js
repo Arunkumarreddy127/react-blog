@@ -8,7 +8,7 @@ const Header = () => {
                    <nav className="navbar navbar-expand-xl navbar-light w-100  justify-content-between">
                       <div className="logo">
                          <Link className="navbar-brand mr-1 " to="/">
-                         <img className=" lazyloaded" data-src="https://www.sophia.org/content/dam/sophia/blog/Sophia_Blog_Logo.svg" alt="Sophia Blog" src="https://www.sophia.org/content/dam/sophia/blog/Sophia_Blog_Logo.svg" />
+                         <img className=" lazyloaded" data-src="" alt="Blog" src="../blog3.png" />
                          </Link>
                       </div>
                       <div className="mid-nav ml-auto ml-xl-0 mr-3 mr-md-5 mr-xl-0">

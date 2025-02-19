@@ -8,7 +8,7 @@ const Footer = () => {
                 <div className="container mt-2 pt-3 pt-md-1 pt-lg-3 pb-0 pb-md-4 px-lg-0 px-3 px-md-0">
                     <div className="row">
                         <div className="col-12 text-center text-lg-left">
-                        <img className="mb-4 sophia-footer__logo" src="https://www.sophia.org/content/dam/sophia/logos/sophia-logo_2c-white.svg" alt="Sophia logo" />
+                        <img className="mb-4 sophia-footer__logo" src="../blog3.png" alt="Slogo" />
                         </div>
                     </div>
                     <div className="row mt-4">
